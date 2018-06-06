@@ -1,13 +1,18 @@
 ---
 layout: page
-title: In the News
+title: Announcements
 ---
+- (June 2018) Chairing a poster session on Machine Learning Applications at the SEG 2018 Annual Meeting
 
-- [My first author paper on 3D model classification accepted to NIPS 2016 3D Deep Learning Workshop](https://arxiv.org/abs/1607.05695)
+- (April 2018) Reviewer for 'Machine Learning and Data Analytics for E&P' session at SEG Annual Meeting and Exposition 2018
 
-- [FusionNet - A deep neural network to classify 3D CAD models featured in O'Reilly Media](https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition)
+- (January 2017) [Reviewer for F1000Research](https://f1000research.com/articles/5-2673/v1#referee-response-19549)
 
-- [This work was translated to Chinese as well!](https://www.oreilly.com.cn/ideas/?p=555)
+- (2016) [My first author paper on 3D model classification accepted to NIPS 2016 3D Deep Learning Workshop](https://arxiv.org/abs/1607.05695)
 
-- [Neural Network from Matroid leads in Princeton Competition - Blogpost on Matroid](https://www.matroid.com/blog/post/neural-network-from-matroid-leads-in-princeton-competition)
+- (2016) [FusionNet - A deep neural network to classify 3D CAD models featured in O'Reilly Media](https://www.oreilly.com/ideas/from-image-recognition-to-object-recognition)
+
+- (2016) [This work was translated to Chinese as well!](https://www.oreilly.com.cn/ideas/?p=555)
+
+- (2016) [Neural Network from Matroid leads in Princeton Competition - Blogpost on Matroid](https://www.matroid.com/blog/post/neural-network-from-matroid-leads-in-princeton-competition)
 
