@@ -6,7 +6,7 @@ To save variables (or weights of the network), we use checkpoints, whereas to sa
 
 #### Initialize a saver:  
 ```python
-saver = tf.train.Saver(tf.global_variables(), max_to_keep = config.training_config.max_to_keep)
+saver = tf.train.Saver(tf.global_variables())
 ```
 
 Make sure that you use initialise the saver after the full graph is defined (in case you want to store the full graph). Otherwise, it will only save variables defined up until now in the graph. You can also save only the variables you need by replacing ''tf.global_variables()' with the list of variables you want to save.
