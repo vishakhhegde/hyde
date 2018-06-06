@@ -3,7 +3,7 @@ layout: page
 title: Announcements
 ---
 
-- (June 2018) Invited to chair the poster session on *Machine Learning Applications* at the [SEG18](https://seg.org/Annual-Meeting-2018)
+- (June 2018) Invited to chair the poster session on *Machine Learning Applications* at [SEG18](https://seg.org/Annual-Meeting-2018)
 
 - (April 2018) Reviewer for *Machine Learning and Data Analytics for E&P* session at [SEG18](https://seg.org/Annual-Meeting-2018)
 
