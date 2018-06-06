@@ -18,6 +18,10 @@ Recent developments in machine learning, like Random Forests and Deep Neural Net
 
 Model capacity and interpretability do not always go hand in hand as shown in the following schematic diagram:
 
+<img src="{{ site.url }}/imgs/understandingcnn/model_capacity_graph.jpg" style="align:center; margin: 0 auto; width:80%;">
+<p style="text-align: center; font-style: italic; font-size: 80%;">Model intrepretability versus model capacity.</p>
+
+
 There has been some ongoing research in the field of interpreting deep neural networks. However, there is no consensus yet on the best method. Most of them are field specific. Here are a few used in the field of computer vision and what they are useful for:
 
 ### Generating an image that maximises a class score
@@ -49,4 +53,4 @@ One of the latest tools in the broader toolkit for understanding black-box predi
 2. Pang Wei Koh, Percy Liang, Understanding Black-box Predictions via Influence Functions, arXiv:1703.04730
 3. Jost Tobias Springenberg , Alexey Dosovitskiy , Thomas Brox, Martin Riedmiller, STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET, arXiv:1412.6806
 4. Visualising and understanding convolutional neural networks, Matthew D Zeiler and Rob Fergus, arXiv:1311.2901
-Blog: http://cs231n.github.io/understanding-cnn/
+5. Blog: http://cs231n.github.io/understanding-cnn/
