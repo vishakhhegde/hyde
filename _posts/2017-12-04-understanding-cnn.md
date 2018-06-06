@@ -29,9 +29,9 @@ Let $$S_{c}(I)$$ be the score of class $$c$$ with respect to image I. This metho
 
 Model capacity and interpretability do not always go hand in hand as shown in the following schematic diagram:
 
-<img src="{{ site.url }}/imgs/understandingcnn/goose.png" style="align:left; margin: 0 auto; width:50%;">
-<img src="{{ site.url }}/imgs/understandingcnn/dumbbell.png" style="align:center; margin: 0 auto; width:50%;">
-<img src="{{ site.url }}/imgs/understandingcnn/lemon.png" style="align:right; margin: 0 auto; width:50%;">
+<img src="{{ site.url }}/imgs/understandingcnn/goose.png" style="align:left; margin: 0 auto; width:35%;">
+<img src="{{ site.url }}/imgs/understandingcnn/dumbbell.png" style="align:center; margin: 0 auto; width:35%;">
+<img src="{{ site.url }}/imgs/understandingcnn/lemon.png" style="align:right; margin: 0 auto; width:35%;">
 
 ### Image-specific class saliency visualization
 The gradient of the true class score with respect to the image results in a saliency map where pixels of higher intensity contribute the most to increasing the true class score. Unlike the previous method, one step of back-propagation is sufficient. They usually highlight parts of the image that are specific to the class of interest. In-fact, they have been shown to be useful for image-segmentation.
