@@ -2,7 +2,7 @@ Let's say you have initialised a session, have created a graph of your neural ne
 
 To save variables (or weights of the network), we use checkpoints, whereas to save the graph structure (operations, variable names etc.) we can use meta-graphs (people also use protobufs for saving graphs. They are usually .pb files). 
 
-#### Saving your model - parameters and graph structure
+### Saving your model - parameters and graph structure
 
 ##### Initialize a saver:  
 ```python
@@ -16,7 +16,7 @@ saver.save(sess, '<checkpoint_name>', global_step)
 ```
 This automatically saves the meta-graph in `<checkpoint_name>.meta` file. i.e. it saves the graph structure with all the nodes, variables and tensors defining the graph. It will also save all the parameters (also called weights) of the variables in '<checkpoint.data>' file.
 
-#### Retrieving your model and graph:
+### Retrieving your model and graph:
 - You have created a session named `sess`
 - The name of your metagraph is `<checkpoint_name>.meta`
 
