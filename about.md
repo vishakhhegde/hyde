@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a Machine Learning Scientist at Schlumberger Software Technology Innovation Centre in Menlo Park, California. Previously, I graduated with a masters from ICME, Stanford University and also worked briefly at Matroid Inc. Over the course of two years at Stanford, I worked on various machine learning (ML) projects and took courses on Public Speaking and Entrepreneurship, among others. Prior to that, I earned my dual degree (BS and MS) in physics from IIT Madras, where I worked on problems in quantum computing.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am deeply interested in ML and its application in computer vision. I am also actively exploring promising tech-business ideas in the ML space.
 
-There are currently two themes built on Poole:
+I credit my "first-principles" thinking to my education in physics. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+My twitter handle is [@vishakhhegde](https://twitter.com/vishakhhegde), where I usually retweet exciting ideas and post updates on what I'm upto!
