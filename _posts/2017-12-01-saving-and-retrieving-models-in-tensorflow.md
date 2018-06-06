@@ -1,3 +1,8 @@
+---
+layout: post
+title: Saving And Retrieving Models In Tensorflow
+comments: true
+---
 Let's say you have initialised a session, have created a graph of your neural network in TensorFlow and would like to save it, along with all the variables and weights you have trained so far. This is important if you want to control the way you perform your training, and obviously while running inference at a later point in time.
 
 To save variables (or weights of the network), we use checkpoints, whereas to save the graph structure (operations, variable names etc.) we can use meta-graphs (people also use protobufs for saving graphs. They are usually .pb files). 
