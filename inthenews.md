@@ -2,9 +2,10 @@
 layout: page
 title: Announcements
 ---
-- (June 2018) Chairing a poster session on Machine Learning Applications at the SEG 2018 Annual Meeting
 
-- (April 2018) Reviewer for 'Machine Learning and Data Analytics for E&P' session at SEG Annual Meeting and Exposition 2018
+- (June 2018) Invited to chair the poster session on *Machine Learning Applications* at the [SEG18](https://seg.org/Annual-Meeting-2018)
+
+- (April 2018) Reviewer for *Machine Learning and Data Analytics for E&P* session at [SEG18](https://seg.org/Annual-Meeting-2018)
 
 - (January 2017) [Reviewer for F1000Research](https://f1000research.com/articles/5-2673/v1#referee-response-19549)
 
