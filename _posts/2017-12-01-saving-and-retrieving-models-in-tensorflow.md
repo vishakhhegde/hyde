@@ -28,7 +28,7 @@ new_graph = tf.train.import_meta_graph(<checkpoint_name>.meta)
 This loads up all the variables, tensors and nodes defined by the graph into the current session. The variables have not been loaded with the values yet. This happens with the following line of code:
 ##### Restore the weights of your neural network:
 ```python
-new_graph.restore(sess, '<checkpoint_name>')
+new_graph.restore(sess, <checkpoint_name>)
 ```
 It restores all the weights of the variables in the meta-graph that are also in the current session.
 
