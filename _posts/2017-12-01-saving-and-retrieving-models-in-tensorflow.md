@@ -2,6 +2,7 @@
 layout: post
 title: Saving And Retrieving Models In Tensorflow
 comments: true
+img_excerpt: imgs/tflogo.png
 ---
 Let's say you have initialised a session, have created a graph of your neural network in TensorFlow and would like to save it, along with all the variables and weights you have trained so far. This is important if you want to control the way you perform your training, and obviously while running inference at a later point in time.
 
