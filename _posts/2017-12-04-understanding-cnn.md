@@ -30,9 +30,9 @@ Let $$S_{c}(I)$$ be the score of class $$c$$ with respect to image I. This metho
 Model capacity and interpretability do not always go hand in hand as shown in the following schematic diagram:
 
 <p float="left">
-	<img src="{{ site.url }}/imgs/understandingcnn/goose.png" style="width:20%">
-	<img src="{{ site.url }}/imgs/understandingcnn/dumbbell.png" style="width:20%">
-	<img src="{{ site.url }}/imgs/understandingcnn/lemon.png" style="width:20%">
+	<img src="{{ site.url }}/imgs/understandingcnn/goose.png" style="width:35%"/>
+	<img src="{{ site.url }}/imgs/understandingcnn/dumbbell.png" style="width:35%"/>
+	<img src="{{ site.url }}/imgs/understandingcnn/lemon.png" style="width:35%"/>
 </p>
 
 ### Image-specific class saliency visualization
