@@ -8,11 +8,11 @@ To save variables (or weights of the network), we use checkpoints, whereas to sa
 ```python
 saver = tf.train.Saver(tf.global_variables())
 ```
-Make sure that you use initialise the saver after the full graph is defined (in case you want to store the full graph). Otherwise, it will only save variables defined up until now in the graph. You can also save only the variables you need by replacing ''tf.global_variables()' with the list of variables you want to save.
+Make sure that you use initialise the saver after the full graph is defined (in case you want to store the full graph). Otherwise, it will only save variables defined up until now in the graph. You can also save only the variables you need by replacing `tf.global_variables()` with the list of variables you want to save.
 
 ##### Save all weights in a checkpoint file and all meta-data in the meta graph:
 ```python
-saver.save(sess, '<checkpoint_name>', global_step)
+saver.save(sess, <checkpoint_name>, global_step)
 ```
 This automatically saves the meta-graph in `<checkpoint_name>.meta` file. i.e. it saves the graph structure with all the nodes, variables and tensors defining the graph. It will also save all the parameters (also called weights) of the variables in '<checkpoint.data>' file.
 
