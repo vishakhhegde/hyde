@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Emilien Dupont
-tagline:          Machine Learning
-description:      Machine Learning
+title:            Vishakh Hegde
+tagline:          Neural Network Trainer
+description:      Neural Network Trainer
 url:              https://vishakhhegde.github.io
 baseurl:
 paginate:         5
