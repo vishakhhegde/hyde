@@ -4,7 +4,7 @@ title: Learnings from the IIT Bay Area Leadership Conference
 comments: true
 img_excerpt: imgs/IITBayArea.gif
 ---
-IIT Bay Area Leadership conference is one of the largest professional IIT alumni meetups. It is a meeting place of technologists (mostly), VCs, CEOs, business leaders who meet up and exchange their professional and personal experiences with others. Here are a few things I learned in that conference (this is a personal note-keeping blog, but I hope it is useful)
+IIT Bay Area Leadership conference is one of the largest professional IIT alumni meetups. It is a meeting place of technologists (mostly), VCs, CEOs, business leaders who meet up and exchange their professional and personal experiences with others. Here are a few key things I learned (and particularly appealed to me) in that conference. This is a personal note-keeping blog, but I hope it is useful.
 
 #### Date: June 9th, 2018
 #### Venue: Santa Clara Convention Center
@@ -18,12 +18,14 @@ IIT Bay Area Leadership conference is one of the largest professional IIT alumni
 
 ### Lessons about disruption:
 1. In an era where things move super-fast and startups are short-lived, you need to constantly learn new things. Deliberately put yourself in roles that you are not fully qualified for.
-Exploration versus exploitation: A classic machine learning dilemma happens in professional life as well. Learning to manage this can set you up for future success.
 
-2. Consumer focussed innovation: Always listen to what the consumer says (even though you might not end up doing everything they ask you to do). Similar to lessons from Bezos.
-Innovation and disruptions cannot be just on the technology front, but also on the business end. Consider how AirBnb is disrupting the hospitality market. Pay attention also to new business model disruptions.
+2. Exploration versus exploitation: A classic machine learning dilemma happens in professional life as well. Learning to manage this can set you up for future success.
 
-3. Measure the percentage of revenue that you are destroying with innovation and disruption: Applies to large organizations looking to undergo a transformation.
+3. Consumer focussed innovation: Always listen to what the consumer says (even though such information is noisy in general). It is then important to apply the right kind of filters on these noisy signals.  Similar to lessons from Bezos.
+
+4. Innovation and disruptions cannot be just on the technology front, but also on the business end. Consider how AirBnb is disrupting the hospitality market. Pay attention also to new business model disruptions.
+
+5. Measure the percentage of revenue that you are destroying with innovation and disruption: Applies to large organizations looking to undergo a transformation.
 
 ### Lessons from Ravi Mhatre and Greg Schott:
 1. It is very important to build the foundational elements of a company early on: like the culture of the company.
@@ -38,3 +40,6 @@ Innovation and disruptions cannot be just on the technology front, but also on t
 
 ### Other random learnings:
 1. Measure your effectiveness. Metrics for something is the first step to improving them. This metric should ideally reflect how much stuff you got done, rather than time spent working on something.
+
+If you find this blog useful, please do not hesitate to share this with people you care about! You can also get in touch with me on twitter [@vishakhhegde](https://twitter.com/vishakhhegde).
+
