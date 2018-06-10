@@ -39,7 +39,7 @@ IIT Bay Area Leadership conference is one of the largest professional IIT alumni
 5. Don’t be a pleaser CEO or a pleaser organization. You will end up building bloated softwares or might end up being a consultancy shop if you go after fulfilling all your customers’ requests. With right feature decisions, your customer will start to appreciate them over time.
 
 ### Other random learnings:
-1. Measure your effectiveness. Metrics for something is the first step to improving them. This metric should ideally reflect how much stuff you got done, rather than time spent working on something.
+1. Measure your effectiveness. Metrics for something is the first step to improving it. For effectivaness in day to day life or in work, this metric should ideally reflect how much stuff you got done, rather than time spent working on something.
 
 If you find this blog useful, please do not hesitate to share this with people you care about! You can also get in touch with me on twitter [@vishakhhegde](https://twitter.com/vishakhhegde).
 
