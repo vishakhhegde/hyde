@@ -4,12 +4,12 @@ title: Learnings from the IIT Bay Area Leadership Conference
 comments: true
 img_excerpt: imgs/IITBayArea.gif
 ---
-IIT Bay Area Leadership conference is one of the largest professional IIT alumni meetups. It is a meeting place of technologists (mostly), VCs, CEOs, business leaders who meet up and exchange their professional and personal experiences with others. Here are a few key things I learned (and particularly appealed to me) in that conference. This is a personal note-keeping blog, but I hope it is useful.
+IIT Bay Area Leadership Conference is one of the largest professional IIT alumni meetups. It is a meeting place of technologists (mostly), VCs, CEOs, business leaders who meet up and exchange their professional and personal experiences with others. Here are a few key things I learned (and particularly appealed to me) in that conference. This is a personal note-keeping blog, but I hope it is useful.
 
 #### Date: June 9th, 2018
 #### Venue: Santa Clara Convention Center
 
-### Keynote speech from Umang Gupta
+### Keynote speech from [Umang Gupta](https://en.wikipedia.org/wiki/Umang_Gupta)
 1. Technology is a ticket to the game, but not the game itself: He spoke about his experiences starting companies like Gupta Technologies, and what he learned from that. People build lots of amazing technologies everywhere. However, in many cases, a distinguishing factor for startups competing in crowded domains is the business model and the go to market strategy. The reason being, as technologies get commoditized, it becomes harder to distinguish yourself based on technology alone. Example being early success of Microsoft and Intel (Wintel) in locking in customers and IBM (during the mainframe era).
 
 2. Be aware of the fact that you will be disrupted tomorrow even if you are the disrupter today: Be open to new ideas and innovation happening around you, even if it means disrupting your current business. You’d rather disrupt your own business rather than let someone else do it.
@@ -27,7 +27,7 @@ IIT Bay Area Leadership conference is one of the largest professional IIT alumni
 
 5. Measure the percentage of revenue that you are destroying with innovation and disruption: Applies to large organizations looking to undergo a transformation.
 
-### Lessons from Ravi Mhatre and Greg Schott:
+### Lessons from [Ravi Mhatre](https://lsvp.com/team/ravi-mhatre/) and [Greg Schott](https://twitter.com/gregschott?lang=en):
 1. It is very important to build the foundational elements of a company early on: like the culture of the company.
 
 2. Hiring the one of the most underrated components of a leader. No one ever learns this in school. You are expected to wing it in the real world.
