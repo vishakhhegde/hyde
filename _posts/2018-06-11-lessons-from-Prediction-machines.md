@@ -90,4 +90,16 @@ Most prediction machines do not provide judgement. They provide the necessary ra
 - For example, AI performs at human levels or better on radiology images. An alternative to radiology is biopsy, which is invasive unlike radiology and comes at a cost. With reliable diagnosis from an image, patients can forego invasive biopsy. Doctors can handle more complexity with less risks.
 - Businesses also tend to satisfice under uncertainty. Better predictions can potentially open up a gold mine by handling more 'ifs' and 'thens' with more certainty.
 
+#### Fully Automated Decision Making
+Full automation of a decision means automating the whole pipeline: input data collection, prediction, judgement and action. When does it makes sense to fully automate a decision? What are the trade-offs to keep in mind while deciding to fully automate?
+
+- When all other elements of decision, except prediction have already been automated, it might be obvious to fully automate the decision if the predictions are extremely good.
+- When speed is needed, the benefit of handing control to a machine is high since machines are much faster to act than humans. For example: going from 'cruise control' to 'adaptive cruise control' where the machine slows down and speeds up as needed without human intervention.
+- Another example when speedy actions are necessary: sports camera movement covering important subjects. It has already been used in recording swimming events in the Rio Olympics.
+- Situations where communicating predictions with a human is costly or time consuming, machine can be given full control (like space exploration rovers/robots)
+- Situations where humans cannot directly perceive input signals (like visual, sound): like using sensor data from physical instruments to predict wear and tear and automatically taking actions to reduce wear, machines can take decisions before it is too late.
+- When law requires human to act, humans have to be in the loop. The closer the machine is to potential harm elements (people or property) outside the organization (or harm humans within the organization), it is wise and likely legally required to keep humas in the loop. 
+- Humans are (fortunately) still better than machines in several aspects: anything that deals with empathy, like elderly or child care, education (humans are likely more effective communicators, at least as of now).
+- Like mentioned in one of the previous sections, the boundary between human and machine control keeps shifting (and mostly in favor of machines).
+
 
