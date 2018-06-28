@@ -81,3 +81,13 @@ Most prediction machines do not provide judgement. They provide the necessary ra
 - When a situation has not occurred many times before, its hard for machines to predict judgement. For example: mergers and acquisition decisions, or decisions on investment or policy which are extremely speculative in nature. Really good CXO's or managers who do this for a living are probably hard to replace with prediction machines in the near future.
 - Humans have some data that many companies don't. Like precise consumer preference. Companies pay to access it through discount on using loyalty cards or free services like Facebook (Your 'likes' tell something about you and your preferences).
 
+#### Tackling complexity with predictions
+- In the absence of good predictions, we tend to satisfice (find a hacky solution or a work around)
+- Newer prediction machines like deep neural networks enable machines to recognize more 'if' conditions. This means that the prediction machine can provide predictions for large number of variations in the input.
+- Consider robots: they can now be programmed to do many more complicated tasks than it could in the previous decade (like jumping over various kinds of obstacles and flipping). This is because it can handle more 'if' conditions.
+- Better prediction machines means reduction in uncertainities on predictions. More 'then' conditions can be handeled with better certainty. Airport lounges are a result of satisficing under the unpredictability of traffic. People left to the airport early since they did not want unpredictable traffic to mess up their travel schedule. With better maps with accurate traffic conditions, people no longer need such lounges. More 'then' scenarios open up: (leave earlier than usual, on time, later than usual).
+- Better predictions allow you to predict more things more often, reducing uncertainty. They enable more complex decisions and provides better methods to handle risk.
+- For example, AI performs at human levels or better on radiology images. An alternative to radiology is biopsy, which is invasive unlike radiology and comes at a cost. With reliable diagnosis from an image, patients can forego invasive biopsy. Doctors can handle more complexity with less risks.
+- Businesses also tend to satisfice under uncertainty. Better predictions can potentially open up a gold mine by handling more 'ifs' and 'thens' with more certainty.
+
+
